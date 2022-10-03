@@ -11,5 +11,9 @@
 
 - ⚡ Fun fact **I like iced coffee and you**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinarsta&show_icons=true&locale=en" alt="dinarsta" /></p>
+ <a href="https://github.com/dinarsta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinarsta&show_icons=true&include_all_commits=true&count_private=true" alt="dinarsta's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/samuelbernard147">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinarsta&layout=compact" alt="dinarsta's top langs"/>
+</a> 
