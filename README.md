@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rositadina816@gmail.com**
 
-- ⚡ Fun fact **I like iced coffee and you**
+- ⚡ Fun fact **I like iced coffee and you:blush:**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinarsta&show_icons=true&locale=en" alt="dinarsta" /></p>
