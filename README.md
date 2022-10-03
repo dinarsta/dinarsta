@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,👋 I'm Dina Rosita</h1>
-
+<h3 align="center">A passionate Front End Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
