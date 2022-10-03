@@ -12,5 +12,3 @@
 - ⚡ Fun fact **I like iced coffee and you**
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinarsta&show_icons=true&locale=en" alt="dinarsta" /></p>
