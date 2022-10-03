@@ -1,6 +1,8 @@
 <h1 align="center">Hi there,👋 I'm Dina Rosita</h1>
 <h3 align="center">A passionate Front End Developer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinarsta&label=Profile%20views&color=0e75b6&style=flat" alt="dinarsta" /> </p>
+
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinarsta](https://github.com/dinarsta)
@@ -18,5 +20,3 @@
 <a href="https://instagram.com/dinarositaaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinarositaaaa_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channel/uc0h7uuvmp244djwn1-2z3ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc0h7uuvmp244djwn1-2z3ta" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinarsta&show_icons=true&locale=en" alt="dinarsta" /></p>
