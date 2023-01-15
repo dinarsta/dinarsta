@@ -11,6 +11,3 @@
 
 - ⚡ Fun fact **I like ayang gojo and you**
 
- <a href="https://github.com/dinarsta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinarsta&show_icons=true&include_all_commits=true&count_private=true" alt="dinarsta's github stats" />
-</a>
