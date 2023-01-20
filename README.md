@@ -9,5 +9,5 @@
 
 - 📫 How to reach me **rositadina816@gmail.com**
 
-- ⚡ Fun fact **I like ayang gojo and you**
+- ⚡ Fun fact **I like iced cofee and you **
 
