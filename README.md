@@ -1,35 +1,4 @@
 
-Claude finished the response
-
-Message collapsed
-
-Read and edited memory
-Read and edited memory
-Sekarang saya rapikan dan percantik README-nya, dengan skill dikelompokkan lebih presisi sesuai kategorinya (bahasa, framework front-end, back-end, database, tools, design, CMS).
-
-
-Created a file, read a file
-Created a file, read a file
-Beberapa perubahan yang saya buat:
-
-Skill dikelompokkan lebih presisi: sebelumnya "Frameworks & Libraries" mencampur Front-End dan Back-End (Laravel dengan Vue/Bootstrap/Tailwind). Sekarang dipisah jadi Front-End (Vue, Bootstrap, Tailwind) dan Back-End (Laravel, PHP), plus Database jadi kategori sendiri.
-Menambahkan divider visual dan sedikit merapikan teks "About Me" agar lebih mengalir.
-Menambahkan GitHub Streak Stats di bagian stats biar makin lengkap (bisa dihapus kalau tidak mau).
-Struktur heading dan spacing dirapikan supaya lebih konsisten.
-Kalau mau, saya bisa tambahkan bagian "Featured Projects" atau badge status (misalnya "Open to Work") — tinggal bilang saja.
-
-
-Readme
-Document · MD 
-
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-
-
-Readme · MD
 <h1 align="center">Hi there, I'm Dina Rosita 👋</h1>
  
 <p align="center">
