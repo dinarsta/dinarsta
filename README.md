@@ -21,33 +21,40 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Web Developer** from Indonesia who enjoys creating clean, responsive, and functional web applications.
+I'm a **Web Developer from Indonesia** who enjoys creating clean, responsive, and functional web applications.
 
 * 💻 Focused on **Web Development & Front-End**
 * 🌱 Currently learning **Laravel & Vue.js**
 * 🔧 Working with **PHP, Laravel, JavaScript & REST API**
-* 🗄️ Database: **MySQL**
-* 🎨 Design tools: **Figma & Adobe XD**
-* 🛠️ Tools: **Git, GitHub, VS Code & Postman**
+* 🗄️ Working with **MySQL**
+* 🎨 Designing interfaces with **Figma & Adobe XD**
+* 🛠️ Using **Git, GitHub, VS Code & Postman**
+* ☁️ Deploying projects with **Vercel**
 * 🚀 Always learning and improving my skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
-### Database & Tools
+### ⚡ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind" />
 </p>
 
-### Design & CMS
+### 🗄️ Database & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,vercel" />
+</p>
+
+### 🎨 Design & CMS
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -73,24 +80,6 @@ I'm a **Web Developer** from Indonesia who enjoys creating clean, responsive, an
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/dinarsta/hotel-reservation">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dinarsta&repo=hotel-reservation&theme=tokyonight&hide_border=true"
-    />
-  </a>
-
-  <a href="https://github.com/dinarsta/bikinlanyard">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dinarsta&repo=bikinlanyard&theme=tokyonight&hide_border=true"
-    />
-  </a>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -108,5 +97,5 @@ I'm a **Web Developer** from Indonesia who enjoys creating clean, responsive, an
 </p>
 
 <p align="center">
-  <sub>Code · Create · Learn · Repeat.</sub>
+  <i>Code · Create · Learn · Repeat.</i>
 </p>
