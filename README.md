@@ -1,53 +1,60 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Dina+Rosita+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8" />
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Dina+Rosita+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8" />
+
 </div>
 
 <br>
 
 ## 👩‍💻 About Me
 
-```text
-> USER.INIT()
-> NAME     : Dina Rosita
-> ROLE     : Web Developer
-> LOCATION : Indonesia 🇮🇩
-> STATUS   : Building & Learning
-```
+<pre>
+&gt; USER.INIT()
+&gt; NAME     : Dina Rosita
+&gt; ROLE     : Web Developer
+&gt; LOCATION : Indonesia 🇮🇩
+&gt; STATUS   : Building &amp; Learning
+</pre>
 
-* 💻 Focused on **Web Development & Front-End**
-* 🌱 Currently learning **Laravel & Vue.js**
-* 💬 Ask me about **Web Development & Basic Programming**
-* 📫 **[rositadina816@gmail.com](mailto:rositadina816@gmail.com)**
-* ⚡ Fun fact: **I like iced coffee ☕🧊 and you!**
+<ul>
+  <li>💻 Focused on <strong>Web Development &amp; Front-End</strong></li>
+  <li>🌱 Currently learning <strong>Laravel &amp; Vue.js</strong></li>
+  <li>💬 Ask me about <strong>Web Development &amp; Basic Programming</strong></li>
+  <li>📫 <strong>rositadina816@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>I like iced coffee ☕🧊 and you!</strong></li>
+</ul>
 
 <br>
 
 ## ⚡ Tech Stack
 
-**`01` Languages**
-<p>
+<p><strong><code>01</code> Languages</strong></p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,ts" />
 </p>
 
-**`02` Frameworks & Libraries**
-<p>
+<p><strong><code>02</code> Frameworks &amp; Libraries</strong></p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,bootstrap,tailwind" />
 </p>
 
-**`03` Database**
-<p>
+<p><strong><code>03</code> Database</strong></p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**`04` Tools**
-<p>
+<p><strong><code>04</code> Tools</strong></p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
-**`05` Design & CMS**
-<p>
+<p><strong><code>05</code> Design &amp; CMS</strong></p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,wordpress" />
 </p>
 
@@ -57,16 +64,19 @@
 
 <div align="center">
 
-<a href="https://dinarsta.github.io/">
-  <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-
+  <a href="https://dinarsta.github.io/">
+    <img
+      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visit My Portfolio"
+    />
+  </a>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Code+%E2%86%92+Create+%E2%86%92+Innovate+%E2%86%92+Repeat+%E2%9C%A8" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Code+%E2%86%92+Create+%E2%86%92+Innovate+%E2%86%92+Repeat+%E2%9C%A8" />
+
 </div>
