@@ -6,23 +6,21 @@
 
 <br>
 
-## 👩‍💻 About Me
+## About Me
 
 <pre>
 &gt; USER.INIT()
 &gt; NAME     : Dina Rosita
 &gt; ROLE     : Web Developer
-&gt; LOCATION : Indonesia 🇮🇩
+&gt; LOCATION : Indonesia
 &gt; STATUS   : Building &amp; Learning
-</pre>
 
-<ul>
-  <li>💻 Focused on <strong>Web Development &amp; Front-End</strong></li>
-  <li>🌱 Currently learning <strong>Laravel &amp; Vue.js</strong></li>
-  <li>💬 Ask me about <strong>Web Development &amp; Basic Programming</strong></li>
-  <li>📫 <strong>rositadina816@gmail.com</strong></li>
-  <li>⚡ Fun fact: <strong>I like iced coffee ☕🧊 and you!</strong></li>
-</ul>
+&gt; FOCUS    : Web Development &amp; Front-End
+&gt; LEARNING : Laravel &amp; Vue.js
+&gt; ASK ME   : Web Development &amp; Basic Programming
+&gt; CONTACT  : rositadina816@gmail.com
+&gt; FUN FACT : I like iced coffee and you!
+</pre>
 
 <br>
 
