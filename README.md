@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Dina+Rosita+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8" />
-
+<br>
 <p>
   <img src="https://komarev.com/ghpvc/?username=dinarsta&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/dinarsta?label=FOLLOWERS&color=8B5CF6&style=for-the-badge" />
