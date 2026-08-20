@@ -1,15 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dina+Rosita+%F0%9F%91%8B;Front-End+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8" />
-
-### Front-End Developer · Indonesia 🇮🇩
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dinarsta&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/dinarsta?label=FOLLOWERS&color=8B5CF6&style=for-the-badge" />
-</p>
-
-</div>
+### Web Developer · Indonesia 🇮🇩
 
 ---
 
@@ -18,15 +7,17 @@
 ```text
 > USER.INIT()
 > NAME     : Dina Rosita
-> ROLE     : Front-End Developer
+> ROLE     : Web Developer
 > LOCATION : Indonesia 🇮🇩
 > STATUS   : Building & Learning
 ```
 
-* 💻 Focused on **Web Development & Front-End**
+* 💻 Focused on **Web Development**
+* 🏢 Currently building **Company Profile Websites**
+* 📊 Developing **Monitoring & Management Systems**
 * 🌱 Currently learning **Laravel & Vue.js**
-* 💬 Ask me about **Web Development & Basic Programming**
-* 📫 **[rositadina816@gmail.com](mailto:rositadina816@gmail.com)**
+* 💬 Ask me about **Web Development & Programming**
+* 📫 [**rositadina816@gmail.com**](mailto:rositadina816@gmail.com)
 * ⚡ Fun fact: **I like iced coffee ☕🧊 and you!**
 
 ---
@@ -36,7 +27,7 @@
 ### `01` — Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ### `02` — Frameworks & Libraries
@@ -70,23 +61,7 @@
 <div align="center">
 
 <a href="https://dinarsta.github.io/">
-
-<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-<br><br>
-
-<sub>
-Explore my experience, skills, education, and selected projects.
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Code+%E2%86%92+Create+%E2%86%92+Innovate+%E2%86%92+Repeat+%E2%9C%A8" />
 
 </div>
