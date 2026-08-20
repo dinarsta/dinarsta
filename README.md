@@ -16,8 +16,6 @@
 &gt; STATUS   : Building &amp; Learning
 
 &gt; FOCUS    : Web Development &amp; Front-End
-&gt; LEARNING : Laravel &amp; Vue.js
-&gt; ASK ME   : Web Development &amp; Basic Programming
 &gt; CONTACT  : rositadina816@gmail.com
 &gt; FUN FACT : I like iced coffee and you!
 </pre>
